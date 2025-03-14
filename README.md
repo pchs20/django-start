@@ -1,7 +1,7 @@
 # Introduction to Django
 This guide is designed to help [Web Applications and Services](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/syllabus/ASW)
-students begin their journey in creating theijgfejjgr server-side web application project using
-Django. It covers the core cedjjdoncepts and provides a simple example to get them started.
+students begin their journey in creating their server-side web application project using
+Django. It covers the core concepts and provides a simple example to get them started.
 
 
 # What is Django?
